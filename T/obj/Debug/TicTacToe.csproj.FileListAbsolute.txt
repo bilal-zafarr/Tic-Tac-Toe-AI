@@ -1,0 +1,13 @@
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\bin\Debug\T.exe.config
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\bin\Debug\T.exe
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\bin\Debug\T.pdb
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.Form1.resources
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.Form2.resources
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.Form3.resources
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.Form4.resources
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.Properties.Resources.resources
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.exe
+D:\Dowloads\IDM\Compressed\TicTacToe_Final\T\obj\Debug\T.pdb
